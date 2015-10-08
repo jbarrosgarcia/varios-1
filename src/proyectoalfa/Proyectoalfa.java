@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author plago-bergonpazos
+ * @author By Pablo Lago-Bergón Pazos ; C'r
  */
 public class Proyectoalfa {
 
