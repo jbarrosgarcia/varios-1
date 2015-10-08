@@ -18,6 +18,8 @@ public class Proyectoalfa {
      */
     public static void main(String[] args) {
         
+        /*Este programa es la p**la*/
+        
         System.out.print(" Este es mi programa ^_^¡");
         
       float base, altura;
