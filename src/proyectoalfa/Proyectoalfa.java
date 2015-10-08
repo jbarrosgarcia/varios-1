@@ -18,6 +18,8 @@ public class Proyectoalfa {
      */
     public static void main(String[] args) {
         
+        System.out.print(" Este es mi programa ^_^¡");
+        
       float base, altura;
          
     String resposta = JOptionPane.showInputDialog("Base=");
